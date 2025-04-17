@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
     </head>
     <body>
       <div class="challenge">
-        <h1 class="challenge-info">||type\u00A0flag</h1>
+        <h1 class="challenge-info">||ls</h1>
         <a href="https://sfo2.digitaloceanspaces.com/fake/path/wargame.zip" target="_blank" class="challenge-download">
           Download
         </a>
